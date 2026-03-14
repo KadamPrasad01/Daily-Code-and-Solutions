@@ -1,0 +1,9 @@
+package mypackage;
+class Start{
+	public void display(){
+		System.out.println("This is the display() of the start");	
+
+	}
+
+
+}
